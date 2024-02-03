@@ -1,0 +1,69 @@
+INTRODUCIDO: mergesort:::2021-07-01:::C++:::ordenacion por mezcla
+INTRODUCIDO: radixsort:::2021-07-07:::C++:::ordenacion radix
+INTRODUCIDO: cocktailsort:::2021-07-02:::Python:::ordenacion burbuja bidireccional
+NO BORRADO: heapsort
+NO LOCALIZADO: heapsort
+LOCALIZADO: mergesort:::2021-07-01:::C++:::ordenacion por mezcla
+INTRODUCIDO: quicksort:::2021-07-03:::C++:::ordenacion de Hoare
+NO INTRODUCIDO: quicksort:::2021-07-03:::C++:::metodo rapido
+INTRODUCIDO: burbuja:::2021-07-05:::Ada:::ordenacion intercambio directo
+BORRADO: burbuja
+-----LISTADO: 4
+cocktailsort:::2021-07-02:::Python:::ordenacion burbuja bidireccional
+mergesort:::2021-07-01:::C++:::ordenacion por mezcla
+quicksort:::2021-07-03:::C++:::ordenacion de Hoare
+radixsort:::2021-07-07:::C++:::ordenacion radix
+---------
+BORRADO: cocktailsort
+LENGUAJE: C++:::mergesort:::quicksort:::radixsort
+LENGUAJE: Fortran:::
+ANTERIORES A: 2021-06-01:::
+NO PURGADOS: 2021-06-01
+ANTERIORES A: 2021-07-04:::mergesort:::quicksort
+PURGADOS: 2021-07-04
+-----LISTADO: 1
+radixsort:::2021-07-07:::C++:::ordenacion radix
+---------
+BORRADO: radixsort
+NO BORRADO: burbuja
+-----LISTADO: 0
+---------
+INTRODUCIDO: mergesort:::2021-07-01:::C++:::ordenacion por mezcla
+INTRODUCIDO: radixsort:::2021-07-07:::C++:::ordenacion radix
+-----LISTADO: 2
+mergesort:::2021-07-01:::C++:::ordenacion por mezcla
+radixsort:::2021-07-07:::C++:::ordenacion radix
+---------
+PURGADOS: 2021-08-01
+-----LISTADO: 0
+---------
+INTRODUCIDO: cocktailsort:::2021-07-02:::Python:::ordenacion burbuja bidireccional
+INTRODUCIDO: quicksort:::2021-07-03:::C++:::metodo rapido
+INTRODUCIDO: burbuja:::2021-07-05:::Ada:::ordenacion intercambio directo
+ANTERIORES A: 2021-08-01:::burbuja:::cocktailsort:::quicksort
+LENGUAJE: Ada:::burbuja
+INTRODUCIDO: mergesort:::2021-07-01:::C++:::ordenacion por mezcla
+INTRODUCIDO: radixsort:::2021-07-07:::C++:::ordenacion radix
+NO INTRODUCIDO: cocktailsort:::2021-07-02:::Python:::ordenacion burbuja bidireccional
+-----LISTADO: 5
+burbuja:::2021-07-05:::Ada:::ordenacion intercambio directo
+cocktailsort:::2021-07-02:::Python:::ordenacion burbuja bidireccional
+mergesort:::2021-07-01:::C++:::ordenacion por mezcla
+quicksort:::2021-07-03:::C++:::metodo rapido
+radixsort:::2021-07-07:::C++:::ordenacion radix
+---------
+LOCALIZADO: burbuja:::2021-07-05:::Ada:::ordenacion intercambio directo
+LOCALIZADO: cocktailsort:::2021-07-02:::Python:::ordenacion burbuja bidireccional
+LOCALIZADO: mergesort:::2021-07-01:::C++:::ordenacion por mezcla
+LOCALIZADO: quicksort:::2021-07-03:::C++:::metodo rapido
+LOCALIZADO: radixsort:::2021-07-07:::C++:::ordenacion radix
+NO LOCALIZADO: BURBUJA
+ANTERIORES A: 2021-07-05:::cocktailsort:::mergesort:::quicksort
+ANTERIORES A: 2021-07-21:::burbuja:::cocktailsort:::mergesort:::quicksort:::radixsort
+PURGADOS: 2021-07-30
+-----LISTADO: 0
+---------
+NO LOCALIZADO: mergesort
+NO LOCALIZADO: quicksort
+NO LOCALIZADO: radixsort
+LENGUAJE: C++:::
